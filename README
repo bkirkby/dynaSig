@@ -1,0 +1,5 @@
+One off project to update my sig in microsoft outlook everyday. using ImageMagick, 
+it generates a sig image, then it uses the included python script to create a MS 
+Outlook 2011 sig attachment file, then it copies that attachment file over one 
+that already exists and is configured in outlook to be the automatic sig for email 
+and replies.
